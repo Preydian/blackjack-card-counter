@@ -39,5 +39,5 @@ Pressing `r` resets both the counts and the dictionary of seen cards. Essential 
 The number keys allow the user to specify how many decks remain in play. This affects the calculation 
 for the True count. Although you can specify multiple decks, the method can only count through 1 deck at a time.
 
-### Card Counting Call
-`line 140` of `detect.py` is where the card counting code is called from. It gets
+### Demo
+[demo.webm](https://github.com/Preydian/blackjack-card-counter/assets/102883379/12b509b5-9341-4edf-bc9b-806e2c0e8bdd)
