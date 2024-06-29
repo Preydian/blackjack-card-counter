@@ -40,4 +40,5 @@ The number keys allow the user to specify how many decks remain in play. This af
 for the True count. Although you can specify multiple decks, the method can only count through 1 deck at a time.
 
 ### Demo
-[demo.webm](https://github.com/Preydian/blackjack-card-counter/assets/102883379/12b509b5-9341-4edf-bc9b-806e2c0e8bdd)
+https://github.com/Preydian/blackjack-card-counter/assets/102883379/1b3636e7-0417-4f18-9b0a-aec4cef84e87
+
